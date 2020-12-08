@@ -2,6 +2,8 @@
 
 ### Team-menber: Helen Zeng, Julian Zhao, Olivia Song.
 
+Training data can be downloaded from https://www.kaggle.com/c/pubg-finish-placement-prediction
+
 The pipline is Data Cleaning -> Feature Engineering -> Model1 -> Model 2 -> Model 3 -> Comparison.
 
 After running Data Cleaning notebook, you will get a "pubg.csv" file, which is used in the following steps.
